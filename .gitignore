@@ -1,3 +1,3 @@
-﻿# Ignore machine learning models and local training datasets
-cargo_eta_model.pkl
+﻿cargo_eta_model.pkl
+cargo_anomaly_model.pkl
 shipments_training_data.csv
